@@ -83,4 +83,4 @@ def MyFace(face_d,img_count):
         if dist > 0.4:
             
           print('Wrong')
-         
+          
