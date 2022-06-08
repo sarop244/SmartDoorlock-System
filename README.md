@@ -5,4 +5,4 @@
 ![캡처3](https://user-images.githubusercontent.com/74298631/172568381-dfebbf0c-88f5-4bd7-a4bb-22930cb53f5b.PNG)
 ![캡처4](https://user-images.githubusercontent.com/74298631/172568390-2aece26f-3833-431d-9b11-4945aaaf6ff8.PNG)
 ![캡처5](https://user-images.githubusercontent.com/74298631/172568394-a7091ec7-e06b-424e-8a1e-0b4648fd9b37.PNG)
-![그림1](https://user-images.githubusercontent.com/74298631/172571184-5db80622-e5a3-439d-91a9-e7dd0aea4a74.gif)
+![KakaoTalk_20220608_175921390](https://user-images.githubusercontent.com/74298631/172576488-cacb8e47-dba7-4f1a-955c-b1e938d4beb0.gif)
