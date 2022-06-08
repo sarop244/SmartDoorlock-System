@@ -1,0 +1,3 @@
+C:/Users/zxcv2/AndroidStudioProjects/dqwe/app/.cxx/Debug/5k1n4t71/arm64-v8a/CMakeFiles/lsyz1.dir
+C:/Users/zxcv2/AndroidStudioProjects/dqwe/app/.cxx/Debug/5k1n4t71/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/zxcv2/AndroidStudioProjects/dqwe/app/.cxx/Debug/5k1n4t71/arm64-v8a/CMakeFiles/rebuild_cache.dir

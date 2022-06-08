@@ -1,0 +1,7 @@
+# ninja log v5
+4	1852	673887766	CMakeFiles/lsyz1.dir/native-lib.cpp.o	565fabbe1d31788f
+1857	2277	673887767	C:/Users/sangy/andp/lsyz-master (2)/lsyz-master/lsyz-master/lsyz1/app/build/intermediates/cxx/Debug/2w5t733x/obj/x86/liblsyz1.so	d7d9adeb155be6a8
+1	49	0	clean	6aeb299310518135
+0	13	0	clean	6aeb299310518135
+15	2063	673891627	CMakeFiles/lsyz1.dir/native-lib.cpp.o	565fabbe1d31788f
+2064	2487	673891627	C:/Users/sangy/andp/lsyz-master (2)/lsyz-master/lsyz-master/lsyz1/app/build/intermediates/cxx/Debug/2w5t733x/obj/x86/liblsyz1.so	d7d9adeb155be6a8

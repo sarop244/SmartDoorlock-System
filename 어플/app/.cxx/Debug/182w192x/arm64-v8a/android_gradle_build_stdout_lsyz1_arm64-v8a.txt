@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\sangy\andp\lsyz-master\lsyz-master\lsyz1\app\.cxx\Debug\182w192x\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/lsyz1.dir/native-lib.cpp.o
+[2/2] Linking CXX shared library C:\Users\sangy\andp\lsyz-master\lsyz-master\lsyz1\app\build\intermediates\cxx\Debug\182w192x\obj\arm64-v8a\liblsyz1.so

@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\sangy\andp\lsyz-master\lsyz-master\lsyz1\app\.cxx\Debug\182w192x\x86'
+ninja: no work to do.

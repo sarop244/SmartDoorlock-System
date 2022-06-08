@@ -1,0 +1,3 @@
+C:/Users/sangy/andp/lsyz-master (2)/lsyz-master/lsyz-master/lsyz1/app/.cxx/Debug/2w5t733x/armeabi-v7a/CMakeFiles/lsyz1.dir
+C:/Users/sangy/andp/lsyz-master (2)/lsyz-master/lsyz-master/lsyz1/app/.cxx/Debug/2w5t733x/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/sangy/andp/lsyz-master (2)/lsyz-master/lsyz-master/lsyz1/app/.cxx/Debug/2w5t733x/armeabi-v7a/CMakeFiles/rebuild_cache.dir

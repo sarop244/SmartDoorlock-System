@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/PC/Desktop/dddd/app/.cxx/Debug/2x3g1x6n/arm64-v8a",
+  "command": "C:\\Users\\PC\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/PC/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/PC/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dlsyz1_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\lsyz1.dir\\native-lib.cpp.o -c C:\\Users\\PC\\Desktop\\dddd\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:\\Users\\PC\\Desktop\\dddd\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

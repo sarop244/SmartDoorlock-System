@@ -1,0 +1,3 @@
+C:/Users/PC/Desktop/dddd/app/.cxx/Debug/3j6b2v39/x86/CMakeFiles/lsyz1.dir
+C:/Users/PC/Desktop/dddd/app/.cxx/Debug/3j6b2v39/x86/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/dddd/app/.cxx/Debug/3j6b2v39/x86/CMakeFiles/rebuild_cache.dir

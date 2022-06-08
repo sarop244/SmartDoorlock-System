@@ -1,0 +1,7 @@
+Executable : C:\Users\PC\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\PC\Desktop\fianl\dqwe\app\.cxx\Debug\6m374v16\x86
+lsyz1
+jvmArgs : 
+

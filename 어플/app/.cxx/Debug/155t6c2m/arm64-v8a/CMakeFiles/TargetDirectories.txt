@@ -1,0 +1,3 @@
+C:/Users/sangy/andp/dddd/app/.cxx/Debug/155t6c2m/arm64-v8a/CMakeFiles/lsyz1.dir
+C:/Users/sangy/andp/dddd/app/.cxx/Debug/155t6c2m/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/sangy/andp/dddd/app/.cxx/Debug/155t6c2m/arm64-v8a/CMakeFiles/rebuild_cache.dir

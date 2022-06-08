@@ -1,0 +1,7 @@
+Executable : C:\Users\sangy\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\sangy\andp\lsyz-master (2)\lsyz-master\lsyz-master\lsyz1\app\.cxx\Debug\2w5t733x\x86_64
+lsyz1
+jvmArgs : 
+

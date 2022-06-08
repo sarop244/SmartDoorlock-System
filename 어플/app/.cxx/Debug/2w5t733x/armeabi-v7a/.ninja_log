@@ -1,0 +1,5 @@
+# ninja log v5
+1	21	0	clean	6aeb299310518135
+0	16	0	clean	6aeb299310518135
+2	1759	673891624	CMakeFiles/lsyz1.dir/native-lib.cpp.o	f03a9b4de738ea9f
+1765	2302	673891624	C:/Users/sangy/andp/lsyz-master (2)/lsyz-master/lsyz-master/lsyz1/app/build/intermediates/cxx/Debug/2w5t733x/obj/armeabi-v7a/liblsyz1.so	8e4b06cb7613ef7d
