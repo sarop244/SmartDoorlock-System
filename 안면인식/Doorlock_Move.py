@@ -22,4 +22,4 @@ def Doorlock():
     print('close')
     
     time.sleep(0.5)
-    
+     
