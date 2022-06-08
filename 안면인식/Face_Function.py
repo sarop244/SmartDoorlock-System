@@ -12,4 +12,4 @@ class Face_Function():
     predictor = dlib.shape_predictor(predictor_path)
 
     
-    
+     
